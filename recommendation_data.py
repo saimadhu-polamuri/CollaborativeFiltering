@@ -1,5 +1,5 @@
 # Collabrative Filtering data set taken from Collective Intelligence book.
-
+# add mhr some notes!!!!!
 
 dataset={
 			'Lisa Rose': {'Lady in the Water': 2.5, 
